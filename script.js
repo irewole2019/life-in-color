@@ -12,51 +12,69 @@ document.addEventListener('DOMContentLoaded', function() {
     // Gallery items data
     const galleryItems = [
         {
-            title: "Life First Food",
-            medium: "Oil on Canvas",
-            year: "1991",
+            title: "There is Sense in Creativity",
+            medium: "Mixed Media",
+            year: "2024",
+            image: "images/gallery/There is Sense in Creativity.png"
+        },
+        {
+            title: "Artwork 9",
+            medium: "Mixed Media",
+            year: "2024",
+            image: "images/gallery/art 9.JPG"
+        },
+        {
+            title: "Artwork 10",
+            medium: "Mixed Media",
+            year: "2024",
+            image: "images/gallery/art 10.JPG"
+        },
+        {
+            title: "Artwork 1",
+            medium: "Mixed Media",
+            year: "2024",
             image: "images/gallery/art 1.webp"
         },
         {
-            title: "Isolation",
+            title: "Artwork 2",
             medium: "Mixed Media",
-            year: "2020",
+            year: "2024",
             image: "images/gallery/art 2.webp"
         },
         {
-            title: "Find your way",
+            title: "Artwork 3",
             medium: "Mixed Media",
-            year: "2008",
+            year: "2024",
             image: "images/gallery/art 3.webp"
         },
         {
-            title: "Explosion",
+            title: "Artwork 4",
             medium: "Mixed Media",
-            year: "2012",
+            year: "2024",
             image: "images/gallery/art 4.webp"
         },
         {
-            title: "Don't silence me",
-            medium: "Oil on Canvas",
-            year: "2022",
+            title: "Artwork 5",
+            medium: "Mixed Media",
+            year: "2024",
             image: "images/gallery/art 5.webp"
         },
         {
-            title: "The journey",
-            medium: "Acrylic on Canvas",
-            year: "2020",
+            title: "Artwork 6",
+            medium: "Mixed Media",
+            year: "2024",
             image: "images/gallery/art 6.jpg"
         },
         {
-            title: "Searching for the truth",
-            medium: "Acrylic on Canvas",
-            year: "2020",
+            title: "Artwork 7",
+            medium: "Mixed Media",
+            year: "2024",
             image: "images/gallery/art 7.jpg"
         },
         {
-            title: "Beauty in diversity",
+            title: "Artwork 8",
             medium: "Mixed Media",
-            year: "2020",
+            year: "2024",
             image: "images/gallery/art 8.jpg"
         }
     ];
