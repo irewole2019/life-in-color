@@ -12,6 +12,12 @@ document.addEventListener('DOMContentLoaded', function() {
     // Gallery items data
     const galleryItems = [
         {
+            title: "Nostalgia (Mississippi)",
+            medium: "Acrylic on Canvas",
+            year: "2024",
+            image: "images/gallery/Nosalgia, (Mississippi) acrylic on canvas.jpg"
+        },
+        {
             title: "There is Sense in Creativity",
             medium: "Mixed Media",
             year: "2024",
