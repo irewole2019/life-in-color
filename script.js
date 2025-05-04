@@ -24,63 +24,63 @@ document.addEventListener('DOMContentLoaded', function() {
             image: "images/gallery/There is Sense in Creativity.png"
         },
         {
-            title: "Artwork 9",
+            title: "The broken calabash",
             medium: "Mixed Media",
-            year: "2024",
+            year: "2014",
             image: "images/gallery/art 9.JPG"
         },
         {
-            title: "Artwork 10",
-            medium: "Mixed Media",
+            title: "Pain",
+            medium: "Acrylic on Canvas",
             year: "2024",
             image: "images/gallery/art 10.JPG"
         },
         {
-            title: "Artwork 1",
-            medium: "Mixed Media",
-            year: "2024",
+            title: "Life first food",
+            medium: "Pastel on Paper",
+            year: "1991",
             image: "images/gallery/art 1.webp"
         },
         {
-            title: "Artwork 2",
+            title: "In Isolation",
             medium: "Mixed Media",
-            year: "2024",
+            year: "2020",
             image: "images/gallery/art 2.webp"
         },
         {
-            title: "Artwork 3",
+            title: "Her Handwork Feeds the Home",
             medium: "Mixed Media",
-            year: "2024",
+            year: "2018",
             image: "images/gallery/art 3.webp"
         },
         {
-            title: "Artwork 4",
-            medium: "Mixed Media",
-            year: "2024",
+            title: "Stop the explosion",
+            medium: "Fabric on Canvas",
+            year: "2012",
             image: "images/gallery/art 4.webp"
         },
         {
-            title: "Artwork 5",
+            title: "The Icons",
             medium: "Mixed Media",
-            year: "2024",
+            year: "2021",
             image: "images/gallery/art 5.webp"
         },
         {
-            title: "Artwork 6",
-            medium: "Mixed Media",
-            year: "2024",
+            title: "My Style 1",
+            medium: "Acrylic on Canvas",
+            year: "2020",
             image: "images/gallery/art 6.jpg"
         },
         {
-            title: "Artwork 7",
-            medium: "Mixed Media",
-            year: "2024",
+            title: "My Style 2",
+            medium: "Acrylic on Canvas",
+            year: "2020",
             image: "images/gallery/art 7.jpg"
         },
         {
-            title: "Artwork 8",
-            medium: "Mixed Media",
-            year: "2024",
+            title: "My Style 3",
+            medium: "Acrylic on Canvas",
+            year: "2020",
             image: "images/gallery/art 8.jpg"
         }
     ];
