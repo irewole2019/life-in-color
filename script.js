@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: "Pain",
             medium: "Acrylic on Canvas",
-            year: "2024",
+            year: "2019",
             image: "images/gallery/art 10.JPG"
         },
         {
