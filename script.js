@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Pain",
             medium: "Acrylic on Canvas",
             year: "2019",
-            image: "images/gallery/art 10.JPG"
+            image: "images/gallery/Pain (No to Violence Against Women).jpg"
         },
         {
             title: "Life first food",
@@ -82,6 +82,108 @@ document.addEventListener('DOMContentLoaded', function() {
             medium: "Acrylic on Canvas",
             year: "2020",
             image: "images/gallery/art 8.jpg"
+        },
+        {
+            title: "Don't Stop my Swag",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/Don't Stop my Swag.jpg"
+        },
+        {
+            title: "Ecstasy",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/Ecstasy.jpg"
+        },
+        {
+            title: "Equity",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/Equity.jpg"
+        },
+        {
+            title: "Good environment is good for her",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/Good environment is good for her.jpg"
+        },
+        {
+            title: "Harmony",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/Harmony.jpg"
+        },
+        {
+            title: "Life in colors (Self-portrait)",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/Life in colors (Self-portrait).jpg"
+        },
+        {
+            title: "My Style (Blue, orange and black series)",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/My Style (Blue, orange and black series).jpg"
+        },
+        {
+            title: "My Style Series (Textile)",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/My Style Series (Textile).jpg"
+        },
+        {
+            title: "My Style Series 2",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/My Style Series 2.jpg"
+        },
+        {
+            title: "My style Series (Black, Red and White)",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/My style Series (Black, Red and White).jpg"
+        },
+        {
+            title: "No Brick Walls",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/No Brick Walls.jpg"
+        },
+        {
+            title: "Olaoma",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/Olaoma.jpg"
+        },
+        {
+            title: "Separated",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/Separated.jpg"
+        },
+        {
+            title: "Separated by circumstances",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/Separated by circumstances.jpg"
+        },
+        {
+            title: "Sound of music",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/Sound of music.jpg"
+        },
+        {
+            title: "The Amazon (Portrait of Afi Ekong)",
+            medium: "Acrylic on Canvas",
+            year: "2023",
+            image: "images/gallery/The Amazon (Portrait of Afi Ekong).jpg"
+        },
+        {
+            title: "The Conversation",
+            medium: "Mixed Media",
+            year: "2023",
+            image: "images/gallery/The Conversation.jpg"
         }
     ];
 
