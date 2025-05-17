@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "There is Sense in Creativity",
             medium: "Mixed Media",
             year: "2024",
-            image: "images/gallery/There is Sense in Creativity.png"
+            image: "images/gallery/There is Sense in Creativity.jpg"
         },
         {
             title: "The broken calabash",
@@ -45,13 +45,13 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "In Isolation",
             medium: "Mixed Media",
             year: "2020",
-            image: "images/gallery/art 2.webp"
+            image: "images/gallery/Isolation.jpg"
         },
         {
             title: "Her Handwork Feeds the Home",
             medium: "Mixed Media",
             year: "2018",
-            image: "images/gallery/art 3.webp"
+            image: "images/gallery/Her handiwork feeds the home.jpg"
         },
         {
             title: "Stop the explosion",
