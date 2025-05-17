@@ -12,24 +12,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Gallery items data
     const galleryItems = [
         {
-            title: "Nostalgia (Mississippi)",
-            medium: "Acrylic on Canvas",
-            year: "2024",
-            image: "images/gallery/Nosalgia, (Mississippi) acrylic on canvas.jpg"
-        },
-        {
-            title: "There is Sense in Creativity",
-            medium: "Mixed Media",
-            year: "2024",
-            image: "images/gallery/There is Sense in Creativity.jpg"
-        },
-        {
-            title: "The broken calabash",
-            medium: "Mixed Media",
-            year: "2014",
-            image: "images/gallery/art 9.JPG"
-        },
-        {
             title: "Pain",
             medium: "Acrylic on Canvas",
             year: "2019",
@@ -172,18 +154,6 @@ document.addEventListener('DOMContentLoaded', function() {
             medium: "Mixed Media",
             year: "2023",
             image: "images/gallery/Sound of music.jpg"
-        },
-        {
-            title: "The Amazon (Portrait of Afi Ekong)",
-            medium: "Acrylic on Canvas",
-            year: "2023",
-            image: "images/gallery/The Amazon (Portrait of Afi Ekong).jpg"
-        },
-        {
-            title: "The Conversation",
-            medium: "Mixed Media",
-            year: "2023",
-            image: "images/gallery/The Conversation.jpg"
         }
     ];
 
