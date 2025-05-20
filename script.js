@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Do not stop my swag",
             medium: "Mixed Media",
             year: "2023",
-            image: "images/gallery/Do not stop my swag.jpg"
+            image: "images/gallery/Do not stop my Swag.jpg"
         },
         {
             title: "Ecstasy",
